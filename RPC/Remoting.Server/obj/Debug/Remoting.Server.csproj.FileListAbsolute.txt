@@ -1,0 +1,11 @@
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\Remoting.Server.exe.config
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\Remoting.Server.exe
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\Remoting.Server.pdb
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\Beetle.Express.dll
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\EC.dll
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\protobuf-net.dll
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\log4net.dll
+C:\Users\henry\Desktop\Remoting\Remoting.Server\bin\Debug\MsgPack.dll
+C:\Users\henry\Desktop\Remoting\Remoting.Server\obj\Debug\Remoting.Server.csprojResolveAssemblyReference.cache
+C:\Users\henry\Desktop\Remoting\Remoting.Server\obj\Debug\Remoting.Server.exe
+C:\Users\henry\Desktop\Remoting\Remoting.Server\obj\Debug\Remoting.Server.pdb

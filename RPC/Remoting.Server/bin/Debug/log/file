@@ -1,0 +1,13 @@
+[Begin========================= 2014-10-12 19:51:15,455===========================
+2014-10-12 19:51:15,666 [8] INFO  EC - load Beetle.Express.dll assembly success
+2014-10-12 19:51:15,701 [8] INFO  EC - load EC.dll assembly success
+2014-10-12 19:51:15,702 [8] INFO  EC - load log4net.dll assembly success
+2014-10-12 19:51:15,791 [8] INFO  EC - load MsgPack.dll assembly success
+2014-10-12 19:51:15,802 [8] INFO  EC - load protobuf-net.dll assembly success
+2014-10-12 19:51:15,804 [8] INFO  EC - load Remoting.Server.exe assembly success
+2014-10-12 19:51:15,805 [8] INFO  EC - load Remoting.Server.vshost.exe assembly success
+2014-10-12 19:51:16,697 [8] INFO  EC - Remoting.Service.User register to 16
+2014-10-12 19:51:17,248 [8] INFO  EC - System.Collections.Generic.List`1[Remoting.Service.User] register to 16
+2014-10-12 19:51:17,306 [8] INFO  EC - Load SOA Service IUserService.Register(String,String)
+2014-10-12 19:51:17,318 [8] INFO  EC - Remoting Message Center message center init success 
+2014-10-12 19:51:20,080 [8] INFO  EC - ec application started:[@10034] [message center:Remoting Message Center] [packet analyzer:Portobuf]

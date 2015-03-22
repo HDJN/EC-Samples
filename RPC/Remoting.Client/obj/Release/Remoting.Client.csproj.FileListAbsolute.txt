@@ -1,0 +1,12 @@
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\bin\Release\Remoting.Client.exe
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\bin\Release\Remoting.Client.pdb
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\bin\Release\Beetle.Express.dll
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\bin\Release\EC.Clients.dll
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\bin\Release\protobuf-net.dll
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\bin\Release\MsgPack.dll
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\obj\Release\Remoting.Client.Form1.resources
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\obj\Release\Remoting.Client.Properties.Resources.resources
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\obj\Release\Remoting.Client.csproj.GenerateResource.Cache
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\obj\Release\Remoting.Client.exe
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\obj\Release\Remoting.Client.pdb
+D:\ikende_Private\MG4Net\MG4Net\Samples\Remoting\Remoting.Client\obj\Release\Remoting.Client.csprojResolveAssemblyReference.cache
